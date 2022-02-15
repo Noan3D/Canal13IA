@@ -1,0 +1,15 @@
+D:\DOUGLAS\CANAL13\WFormTest\obj\Debug\WFormTest.csprojAssemblyReference.cache
+D:\DOUGLAS\CANAL13\WFormTest\obj\Debug\WFormTest.Form1.resources
+D:\DOUGLAS\CANAL13\WFormTest\obj\Debug\WFormTest.Properties.Resources.resources
+D:\DOUGLAS\CANAL13\WFormTest\obj\Debug\WFormTest.csproj.GenerateResource.cache
+D:\DOUGLAS\CANAL13\WFormTest\obj\Debug\WFormTest.csproj.CoreCompileInputs.cache
+D:\DOUGLAS\CANAL13\WFormTest\bin\Debug\WFormTest.exe.config
+D:\DOUGLAS\CANAL13\WFormTest\bin\Debug\WFormTest.exe
+D:\DOUGLAS\CANAL13\WFormTest\bin\Debug\WFormTest.pdb
+D:\DOUGLAS\CANAL13\WFormTest\obj\Debug\WFormTest.csproj.CopyComplete
+D:\DOUGLAS\CANAL13\WFormTest\obj\Debug\WFormTest.exe
+D:\DOUGLAS\CANAL13\WFormTest\obj\Debug\WFormTest.pdb
+D:\DOUGLAS\CANAL13\WFormTest\bin\Debug\ApiCanal13.dll
+D:\DOUGLAS\CANAL13\WFormTest\bin\Debug\ApiCanal13.pdb
+D:\DOUGLAS\CANAL13\WFormTest\bin\Debug\Newtonsoft.Json.dll
+D:\DOUGLAS\CANAL13\WFormTest\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,5 @@
+D:\DOUGLAS\XMLtoDB\XMLtoDB\XMLtoDB\XMLtoDB\bin\Debug\XMLtoDB.dll
+D:\DOUGLAS\XMLtoDB\XMLtoDB\XMLtoDB\XMLtoDB\bin\Debug\XMLtoDB.pdb
+D:\DOUGLAS\XMLtoDB\XMLtoDB\XMLtoDB\XMLtoDB\obj\Debug\XMLtoDB.csproj.CoreCompileInputs.cache
+D:\DOUGLAS\XMLtoDB\XMLtoDB\XMLtoDB\XMLtoDB\obj\Debug\XMLtoDB.dll
+D:\DOUGLAS\XMLtoDB\XMLtoDB\XMLtoDB\XMLtoDB\obj\Debug\XMLtoDB.pdb

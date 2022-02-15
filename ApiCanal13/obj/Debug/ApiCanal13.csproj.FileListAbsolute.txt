@@ -1,0 +1,9 @@
+D:\DOUGLAS\CANAL13\ApiCanal13\obj\Debug\ApiCanal13.csproj.CoreCompileInputs.cache
+D:\DOUGLAS\CANAL13\ApiCanal13\bin\Debug\ApiCanal13.dll
+D:\DOUGLAS\CANAL13\ApiCanal13\bin\Debug\ApiCanal13.pdb
+D:\DOUGLAS\CANAL13\ApiCanal13\bin\Debug\Newtonsoft.Json.dll
+D:\DOUGLAS\CANAL13\ApiCanal13\bin\Debug\Newtonsoft.Json.xml
+D:\DOUGLAS\CANAL13\ApiCanal13\obj\Debug\ApiCanal13.csproj.CopyComplete
+D:\DOUGLAS\CANAL13\ApiCanal13\obj\Debug\ApiCanal13.dll
+D:\DOUGLAS\CANAL13\ApiCanal13\obj\Debug\ApiCanal13.pdb
+D:\DOUGLAS\CANAL13\ApiCanal13\obj\Debug\ApiCanal13.csprojAssemblyReference.cache
