@@ -35,8 +35,8 @@ namespace WFormTest
             clave = ConfigurationManager.AppSettings["PasswordSQL"].ToString();
             signal = ConfigurationManager.AppSettings["Signal"].ToString();
             author = ConfigurationManager.AppSettings["Author"].ToString();
-            timestampStart = "2022-01-25_01-00-00";
-            timestampEnd = "2022-01-25_03-00-00";
+            timestampStart = "2022-03-08_10-00-00";
+            timestampEnd = "2022-03-08_10-30-00";
             canal13UrlCreate = ConfigurationManager.AppSettings["Canal13UrlCreate"].ToString();
             canal13UrlCheckStatus = ConfigurationManager.AppSettings["Canal13UrlCheckStatus"].ToString();
 

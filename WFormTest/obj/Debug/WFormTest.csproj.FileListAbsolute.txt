@@ -13,3 +13,17 @@ D:\DOUGLAS\CANAL13\WFormTest\bin\Debug\ApiCanal13.dll
 D:\DOUGLAS\CANAL13\WFormTest\bin\Debug\ApiCanal13.pdb
 D:\DOUGLAS\CANAL13\WFormTest\bin\Debug\Newtonsoft.Json.dll
 D:\DOUGLAS\CANAL13\WFormTest\bin\Debug\Newtonsoft.Json.xml
+D:\Trabajos\Canal13\Canal13IA\WFormTest\bin\Debug\WFormTest.exe.config
+D:\Trabajos\Canal13\Canal13IA\WFormTest\bin\Debug\WFormTest.exe
+D:\Trabajos\Canal13\Canal13IA\WFormTest\bin\Debug\WFormTest.pdb
+D:\Trabajos\Canal13\Canal13IA\WFormTest\bin\Debug\ApiCanal13.dll
+D:\Trabajos\Canal13\Canal13IA\WFormTest\bin\Debug\Newtonsoft.Json.dll
+D:\Trabajos\Canal13\Canal13IA\WFormTest\bin\Debug\ApiCanal13.pdb
+D:\Trabajos\Canal13\Canal13IA\WFormTest\bin\Debug\Newtonsoft.Json.xml
+D:\Trabajos\Canal13\Canal13IA\WFormTest\obj\Debug\WFormTest.csproj.AssemblyReference.cache
+D:\Trabajos\Canal13\Canal13IA\WFormTest\obj\Debug\WFormTest.Form1.resources
+D:\Trabajos\Canal13\Canal13IA\WFormTest\obj\Debug\WFormTest.Properties.Resources.resources
+D:\Trabajos\Canal13\Canal13IA\WFormTest\obj\Debug\WFormTest.csproj.GenerateResource.cache
+D:\Trabajos\Canal13\Canal13IA\WFormTest\obj\Debug\WFormTest.csproj.CoreCompileInputs.cache
+D:\Trabajos\Canal13\Canal13IA\WFormTest\obj\Debug\WFormTest.exe
+D:\Trabajos\Canal13\Canal13IA\WFormTest\obj\Debug\WFormTest.pdb
